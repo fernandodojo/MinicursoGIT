@@ -10,5 +10,6 @@ def calculadora(a, b, operacao):
 x = int(input("Digite o primeiro valor"))
 y = int(input("Digite o segundo valor"))
 op = input("Digite a operação(+, -)")
+print("apenas um teste")
 
 calculadora(x, y, op)
